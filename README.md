@@ -1,8 +1,7 @@
-# React + Vite
+# Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma lista de tarefas onde é possivel criar tarefas que podem ser marcadas como concluidas ao serem feitas e ser apagadas depois.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Em breve, assim que eu obtiver mais prática e mais conhecimento, adicionarei uma lista financeira a ela, que será sincronizada com a lista de tarefas;
+- Pretendo adicionar uma lista de temas para que possa ficar a grado de qualquer um usuário;
+- Irei mudar a UI em breve também.
